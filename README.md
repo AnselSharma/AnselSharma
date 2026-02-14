@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Ansel Sharma
 🔭 I’m currently working on:<br><br>- Designing a Bank Account Management System (C) with structured file handling & modular programming<br><br>- Developing a Vehicle Rental Management System (SQL + RDBMS) with normalized schema and relational constraints<br><br>- Building responsive web interfaces using HTML, CSS & JavaScript<br><br>🤝 I’m looking to collaborate on:<br><br>- Full-stack web applications<br><br>- Database-driven systems<br><br>- Open-source beginner to intermediate projects<br><br>🫶 I’m looking for help with:<br><br>- Backend development & API integration<br><br>- Writing optimized and scalable SQL queries<br><br>- Data Structures & Algorithms for problem solving<br><br>🌱 I’m currently learning:<br><br>- Database normalization & query optimization<br><br>- JavaScript fundamentals & DOM manipulation<br><br>- Writing clean, modular C programs
 
 
